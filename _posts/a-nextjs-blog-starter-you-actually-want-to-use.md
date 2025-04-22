@@ -2,7 +2,7 @@
 title: 'A quick blog using NextJS and Node'
 excerpt: 'Sometimes the best way to retain knowledge is to get your hands dirty with the full process from top to bottom.  This blog is an effort at rapidly building, containerizing, and deploying a Node app to the cloud'
 coverImage: '/assets/blog/a-nextjs-blog-starter-you-actually-want-to-use/techno.jpg'
-date: '2021-08-24T05:35:07.322Z'
+date: '2025-04-22T10:00:07.322Z'
 author:
   name: digarok
   picture: '/assets/blog/authors/digarok_avatar.png'
